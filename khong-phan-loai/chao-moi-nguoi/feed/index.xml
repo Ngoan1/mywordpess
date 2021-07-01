@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Chào tất cả mọi người!	</title>
+	<atom:link href="http://localhost/myproject/wordpress/khong-phan-loai/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ngoan1.github.io/mywordpess/khong-phan-loai/chao-moi-nguoi/</link>
+	<description>Thông tin mới nhất về One Piece</description>
+	<lastBuildDate>Tue, 29 Jun 2021 22:17:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Ngoan		</title>
+		<link>https://ngoan1.github.io/mywordpess/khong-phan-loai/chao-moi-nguoi/#comment-2</link>
+
+		<dc:creator><![CDATA[Ngoan]]></dc:creator>
+		<pubDate>Tue, 29 Jun 2021 22:17:22 +0000</pubDate>
+		<guid isPermaLink="false">https://ngoan1.github.io/mywordpess/?p=1#comment-2</guid>
+
+					<description><![CDATA[hi]]></description>
+			<content:encoded><![CDATA[<p>hi</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Một người bình luận WordPress		</title>
+		<link>https://ngoan1.github.io/mywordpess/khong-phan-loai/chao-moi-nguoi/#comment-1</link>
+
+		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
+		<pubDate>Thu, 03 Jun 2021 10:28:01 +0000</pubDate>
+		<guid isPermaLink="false">https://ngoan1.github.io/mywordpess/?p=1#comment-1</guid>
+
+					<description><![CDATA[Xin chào, đây là một bình luận
+Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.
+Avatar của người bình luận sử dụng &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Xin chào, đây là một bình luận<br />
+Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.<br />
+Avatar của người bình luận sử dụng <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
