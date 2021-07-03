@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments on: Chào tất cả mọi người!	</title>
+	Các phản hồi luận về: Chào tất cả mọi người!	</title>
 	<atom:link href="http://localhost/myproject/wordpress/khong-phan-loai/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ngoan1.github.io/mywordpess/khong-phan-loai/chao-moi-nguoi/</link>
 	<description>Thông tin mới nhất về One Piece</description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>
-		By: Ngoan		</title>
+		Bởi: Ngoan		</title>
 		<link>https://ngoan1.github.io/mywordpess/khong-phan-loai/chao-moi-nguoi/#comment-2</link>
 
 		<dc:creator><![CDATA[Ngoan]]></dc:creator>
@@ -33,7 +33,7 @@
 			</item>
 		<item>
 		<title>
-		By: Một người bình luận WordPress		</title>
+		Bởi: Một người bình luận WordPress		</title>
 		<link>https://ngoan1.github.io/mywordpess/khong-phan-loai/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
